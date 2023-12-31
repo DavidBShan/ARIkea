@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "884083908104",
+    "project_id": "ar-ikea-app-36f7d",
+    "storage_bucket": "ar-ikea-app-36f7d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884083908104:android:961b03efd651c6c38cfbbd",
+        "android_client_info": {
+          "package_name": "com.davidbshan.arikea"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByw0kM5uMo38gA8489CH66-3aby-fwHqk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
